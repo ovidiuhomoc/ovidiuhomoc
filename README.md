@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning Java - Spring Boot
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ovidiu.homoc@gmail.com
+- 📫 How to reach me ...
 
 <!---
 ovidiuhomoc/ovidiuhomoc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
